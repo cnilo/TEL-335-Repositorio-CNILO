@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Primer domingo de marzo",
+        "comentarios": null,
+        "fecha": "2023-03-05",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Segundo domingo de marzo",
+        "comentarios": null,
+        "fecha": "2023-03-12",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Tercer domingo de marzo",
+        "comentarios": null,
+        "fecha": "2023-03-19",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Cuarto domingo de marzo",
+        "comentarios": null,
+        "fecha": "2023-03-26",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    }
+]
